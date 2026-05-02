@@ -1,0 +1,80 @@
+issue,subject,company,response,product_area,status,request_type,justification
+I notice that people I assigned the test in October of 2025 have not received new tests. How long do the tests stay active in the system.,Test Active in the system,hackerrank,"| | Candidate Status | Current status of the candidate in the test workflow.
+
+| | Test Name | Name assigned to the test.
+
+| | Test Section Count | Number of unique segments in the test.
+
+| | Dynamic Section Count | Number of dynamic sections in the test.
+
+Reference: https://support.hackerrank.com/articles/7355624862-create-custom-reports",hackerrank_settings,replied,product_issue,Replied directly using the closest grounded support article 'Create Custom Reports Key features Creating a custom report Available functional objects' with retrieval score 25.06. [source: 7355624862-create-custom-reports.md]
+site is down & none of the pages are accessible,,hackerrank,"This case needs human review or account-specific action. The closest grounded support article was 'Summary of Bias Audit Results (HackerRank's Image Analysis System)', but the requested action cannot be completed safely through an automated reply.",hackerrank_settings,escalated,bug,Escalated because the request needs human or account-specific intervention; the closest grounded article was 'Summary of Bias Audit Results (HackerRank's Image Analysis System)'. [source: 8514725302-summary-of-bias-audit-results-%28hackerrank%27s-image-analysis-system%29.md]
+"I'm noticing that you all have many default versions of roles. (e.g. front end developer for react, angular, vue.js, etc.) What do you consider best practice 
+for when to create a new test versus create a variant of the test? What are the advantages and disadvantages of using variants?","When should I create a variant versus
+ have a different test?",hackerrank,"For example, if you want to hire a Quality Assurance Engineer with five years of experience and expertise in creating optimal test automation scripts, you can create a custom test with questions that assess the required skills and experience.
+
+You can create a test from scratch to evaluate candidates for particular roles, skill levels, or experience.
+
+# Creating a Test To create a test: 1.
+
+- **Using Try Test with changes to the prefilled email:** When you select **Try Test** and replace the prefilled email with another email, the preview consumes an attempt.
+
+Reference: https://support.hackerrank.com/articles/6967597139-creating-a-new-test",hackerrank_screen,replied,product_issue,Replied directly using the closest grounded support article 'Create a Test Creating a Test Additional test actions' with retrieval score 33.35. [source: 6967597139-creating-a-new-test.md]
+"Hi there
+
+We have sent a candidate a Hackerrank assessment already, but we have been informed that they require extra time. As the assessment is 105 minutes, they need an extra 50% extra time added (so around 53 minutes) in addition.
+
+Please can you provide step-by-step instruction on how we are to reinvite them.
+
+Do we find their profile in 'Candidates' , put in Add time 53 minutes and then click 'reinvite' and send the email? The email to the candidate says 105 minutes as the duration though still so not sure how we can check?
+
+Thanks","How to reinvite candidate to Hackerrank 
+assessment and add extra time",hackerrank,"In this case, we send an email invite to candidates to complete the assessment.
+
+**Candidate Experience:**\ While candidates are applying for a job, they will see an assessment block that informs them to take an assessment.
+
+- For HackerRank Interview links generated from ORC, we do not send email notifications to candidates.
+
+### Triggering HackerRank Tests If a HackerRank Test is triggered via the CSP, candidates will receive an email from HackerRank asking them to take the test.
+
+Reference: https://support.hackerrank.com/articles/3350882088-oracle-recruiting-cloud-and-hackerrank-integration-user-guide",hackerrank_integrations,replied,product_issue,Replied directly using the closest grounded support article 'Oracle Recruiting Cloud and HackerRank Integration User Guide' with retrieval score 58.87. [source: 3350882088-oracle-recruiting-cloud-and-hackerrank-integration-user-guide.md]
+"i signed up using google login on hackerrank community , so i do not have a separate hackerrank password. please delete my account
+",,hackerrank,"# Delete an account **How do I delete an account created using Google or GitHub if I do not have a password?** HackerRank does not store a separate password for your account if you sign up using a third-party provider such as Google or GitHub.\ If you cannot access your third-party account, contact HackerRank support at [help@hackerrank.com](mailto:help@hackerrank.com) for assistance.
+
+# Update or reset password **How do I update my password if I sign up using a third-party sign-up method?** HackerRank does not store a separate password for your account if you sign up using a third-party provider such as Google or GitHub.\ To update your password, change it in your Google or GitHub account settings.\ If you cannot access your third-party account, contact HackerRank support at [help@hackerrank.com](mailto:help@hackerrank.com) for assistance.
+
+**Can I recover my account after I delete it?** No.
+
+# Manage Account FAQs Account sign-in Update or reset password Merge multiple HackerRank accounts Delete an account _Last updated: Mar 12, 2026, 2:21 PM (Last updated 1 month ago)_ # Account sign-in **What happens to Google Auth sign-in if my company email domain changes?** If your company changes its email domain, create a new HackerRank account using your new company email.
+
+Reference: https://help.hackerrank.com/articles/1917106962-manage-account-faqs",hackerrank_community,replied,product_issue,Replied directly using the closest grounded support article 'Manage Account FAQs Account sign-in Update or reset password Merge multiple HackerRank accounts Delete an account' with retrieval score 14.79. [source: 1917106962-manage-account-faqs.md]
+"One of my claude conversations has some private info, i forgot to make a temporary chat, is there anything
+ else that can be done? like delete etc?",,claude,"They can now share the full context of your conversation, so every action Claude takes in one application is informed by everything that’s happened in the other.
+
+Incognito chats give you a way to exclude conversations from Claude’s memory.
+
+Self-serve Enterprise plans have a single seat type that includes access to Claude, Claude Code, and Cowork.
+
+See the following articles for more information: - **[Using Claude with iOS Apps](https://support.claude.com/en/articles/11869619-using-claude-with-ios-apps)** - **[Using Claude with Android Apps](https://support.claude.com/en/articles/11869629-using-claude-with-android-apps)** **HIPAA-ready Enterprise plans** We now offer a HIPAA-ready version of Claude that is available for organizations with Enterprise plans that choose to process protected health information (PHI) through Claude.
+
+Reference: https://support.claude.com/en/articles/12138966-release-notes",claude_release_notes,replied,product_issue,Replied directly using the closest grounded support article 'Release notes' with retrieval score 12.16. [source: 12138966-release-notes.md]
+What is the name of the actor in Iron Man?,"Urgent, please help",hackerrank,"I am sorry, this is out of scope from my capabilities",hackerrank_settings,replied,invalid,"The request is out of scope or unsafe, so it was handled without attempting unsupported actions."
+I bought Visa Traveller's Cheques from Citicorp and they were stolen in Lisbon last night. What do I do?,,visa,"- Do not accept Visa Traveller's Cheques from a third party, if unknown to you and you have no recourse against that party.
+
+------------------------------------------------------------------------ ## Keep cheques safe What to know when using Visa Traveller's Cheques.
+
+- How and when do you think the cheques were lost or stolen?
+
+# Visa Traveller's Cheques for Consumers _Last modified: 2019-10-23T09:14:04.044Z_ # Visa Traveller's Cheques Visa Traveller's Cheques offer convenience and security while you travel.
+
+Reference: https://www.visa.co.in/support/consumer/travelers-cheques.html",visa_travelers_cheques,replied,product_issue,Replied directly using the closest grounded support article 'Visa Traveller's Cheques for Consumers' with retrieval score 16.17. [source: travelers-cheques.md]
+Where can I report a lost or stolen Visa card from India?,Card stolen,visa,"### What should I do if my Visa card has been lost or stolen?
+
+To report your Lost or Stolen Visa Card, please visit our [Lost or Stolen card](/support/consumer/lost-stolen-card.html) page.
+
+### Merchants ### I have concerns about a place where I used my Visa card.
+
+## Get in touch Report a lost card by calling Visa at 000-800-100-1219.
+
+Reference: https://www.visa.co.in/support.html",visa_support,replied,product_issue,Replied directly using the closest grounded support article 'Visa Consumer Support' with retrieval score 16.18. [source: support.md]
+Thank you for helping me,,claude,Happy to help,claude_mobile_apps,replied,invalid,"The request is out of scope or unsafe, so it was handled without attempting unsupported actions."
